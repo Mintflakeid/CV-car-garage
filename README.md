@@ -1,8 +1,3 @@
-
-  # car-garage
-
-  This is a code bundle for car-garage. The original project is available at https://www.figma.com/design/LsUDKuppYqSpuuOhfeBaap/car-garage.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
